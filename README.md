@@ -1,7 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/831903326748540928
-                            )](https://discord.com/users/831903326748540928)
-                            
-                            <h3 align="center">Front end Developer</h3>
+<h3 align="center">Front end Developer</h3>
 
 - 🎈 Exodar **A minimalist and simple socializing app.**
 
@@ -14,3 +11,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixaen&show_icons=true&locale=en&layout=compact" alt="ixaen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ixaen&show_icons=true&locale=en" alt="ixaen" /></p>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/831903326748540928
+                            )](https://discord.com/users/831903326748540928)
+               
