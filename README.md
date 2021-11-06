@@ -1,8 +1,8 @@
 <h3 align="center">Front end Developer</h3>
 
-- 🎈 Exodar : **A minimalist and simple socializing app.**
+- 🎈 Exodar : **A minimalist and simple socializing app.*
 
-- ⚡ jsoncy : **It is a simple, easy and fast database module.**
+- ⚡ jsoncy : [**It is a simple, easy and fast database module.**](https://www.npmjs.com/package/jsoncy)
 
 
 <h3 align="left">Languages and Tools:</h3>
